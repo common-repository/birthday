@@ -1,0 +1,40 @@
+# Copyright (C) 2024 Sanjeev Aryal
+# This file is distributed under the same license as the Birthday plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Birthday 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/birthday\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-05-03T08:05:37+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.10.0\n"
+"X-Domain: birthday\n"
+
+#. Plugin Name of the plugin
+#: C:/laragon/www/dev/wp-content/plugins/birthday/birthday.php
+#: src/Plugin.php:69
+msgid "Birthday"
+msgstr ""
+
+#. Description of the plugin
+#: C:/laragon/www/dev/wp-content/plugins/birthday/birthday.php
+msgid "It's your customer's birthday. Greet them with suprises."
+msgstr ""
+
+#. Author of the plugin
+#: C:/laragon/www/dev/wp-content/plugins/birthday/birthday.php
+msgid "Sanjeev Aryal"
+msgstr ""
+
+#. Author URI of the plugin
+#: C:/laragon/www/dev/wp-content/plugins/birthday/birthday.php
+msgid "https://www.sanjeebaryal.com.np"
+msgstr ""
+
+#: src/Plugin.php:75
+msgid "Select your birthday"
+msgstr ""
